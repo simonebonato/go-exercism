@@ -1,3 +1,3 @@
-module letter
+module parallel
 
-go 1.18
+go 1.23.4
